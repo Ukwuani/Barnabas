@@ -1,0 +1,44 @@
+
+
+.App {
+  margin: 0% 3%;
+}
+
+.Txt_align {
+  text-align: center;
+}
+.Fabs {
+  border-radius: 100%;
+  background: rgb(252,89,1);
+  padding: 1em;
+  height: 2em;
+  width: 2em;
+  float: right;
+  position: fixed;
+}
+
+.Card_View {
+  background-color: rgba(48, 48, 48, 0.84 );
+  padding: 0.2em 1em ;
+  box-shadow: rgba(0, 0, 0, 0.12 ) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;;
+  border-radius: 1em;
+  margin: .4em 0.7em;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  flex-direction: row;
+  transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 1ms;
+}
+
+.No_Butt_Padding {
+  padding-bottom: 0px;
+  margin: auto;
+  color:#beb2b2d3
+  
+}
+
+.cover {
+  height:70vh
+}
+.cover_sm {
+  min-height: 50vh;
+  -webkit-overflow-scrolling: auto;
+}
