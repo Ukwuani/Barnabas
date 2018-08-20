@@ -1,1 +1,8 @@
-A project built on react js for file upload
+# Music Player built with react
+
+```
+  clone
+  npm install
+  and wolla! off you go.
+  Better doc.. coming soon
+```
